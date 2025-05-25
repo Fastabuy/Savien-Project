@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    padding: 5;
+    margin: 5;
+}
+
+body{
+    background-color: hsl(189, 43%, 85%);
+}
+
+#menu{
+    text-align: right;
+    width: auto;
+    padding: 3px 10px;
+    border-radius: 20px;
+    
+}
+
+#menu a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 2px;
+    background-color: #6d01fa;
+    border-radius: 5px;
+    padding: 1px 2px;
+    display: inline-block;
+}
+
+#menu a:hover{
+    background-color: hsl(202, 98%, 51%);
+}
+
+#welcome{
+    background-color: rgb(16, 8, 90);
+    width: auto;
+    color: #ffffff;
+    padding: 2px;
+    text-align: right;
+    border-radius: 20px;
+}
+
+#medias{
+    background-color: rgb(9, 9, 59);
+}
+
+#param a{
+    text-decoration: none;
+}
+
+#services{
+    margin-top: 30px;
+}
+
+#services{
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+}
+
+#services img{
+    height: 300px; 300px;
+    margin: 0px; 5px;
+    border-radius: 15px;
+}
+
+#text{text-align: center;
+
+}
